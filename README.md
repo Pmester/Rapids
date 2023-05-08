@@ -47,7 +47,7 @@ Masternode
 =================================================
 A masternode is a server connected to the blockchain network which guarantees a certain level of performance and functionality, and offers governance voting and funding proposals to masternode operators. 
 
-Anyone can operate a masternode and the objective is to further decentralize the blockchain network. To avoid excessive masternodes, proof of ownership requires 10,000,000 RPD to be retained in a transparent manner. If the owner spends or moves those coins, the masternode no longer funtions and payments cease.
+Anyone can operate a masternode and the objective is to further decentralize the blockchain network. To avoid excessive masternodes, proof of ownership requires 10,000 RPD to be retained in a transparent manner. If the owner spends or moves those coins, the masternode no longer funtions and payments cease.
 
 Masternodes are paid by the network for the services they provide. As more masternodes are created, the duration between payments increases. Payment selection is always random due to the selection algorithm, but in the long term all masternode owners should receive similar payments. If a masternode stops providing services to the network for more than one hour, it is removed from the list until normal service resumes.
 
